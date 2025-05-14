@@ -70,6 +70,5 @@ Create a **Single Page Application (SPA)** that estimates a user’s carbon foot
 - Fork this repository.
 - Complete the task in your fork.
 - Submit your solution by:
-  - Opening a pull request, or
-  - Sharing your forked repo link.
+  - Opening a pull request
 - Complete within 24 hours
